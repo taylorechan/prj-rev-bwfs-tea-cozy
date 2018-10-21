@@ -15,7 +15,6 @@ body {
 }
 
 
-
 #header1 {
     display: flex;
     justify-content: space-between;
@@ -35,8 +34,6 @@ header img {
     height: 50px;
 }
 
-
-
 header nav ul li {
     display: inline-flex;
     padding: 10px;
@@ -54,8 +51,6 @@ header nav ul {
   height: 700px;
 }
 
-
-
 .hover-nav {
     text-decoration: none;
     color: seashell;
@@ -63,11 +58,7 @@ header nav ul {
 
 .hover-nav:after {
     display:block;
-
-
 }
-
-
 
 #menu {
     display: none;
@@ -87,7 +78,6 @@ header nav ul {
     }
 }
 
-
 .center {
     height: 700px;
     display: flex;
@@ -106,16 +96,11 @@ header nav ul {
     width: 100%;
     background: #000;
     align-items: center;
-
-
 }
-
-
 
 .tea-month {
     max-width: 1000px;
     margin: 0 auto;
-
 }
 
 .tea-month header {
@@ -135,7 +120,6 @@ header nav ul {
     width: 300px;
     height: 300px;
     padding: 15px;
-
 }
 
 .product img {
@@ -149,7 +133,6 @@ header nav ul {
     font-weight: 700;
 }
 
-
 .information {
     min-height: 500px;
     opacity: 1;
@@ -157,7 +140,6 @@ header nav ul {
     margin: 0 auto;
     text-align: center;
     background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg) no-repeat center;
-
 }
 
 .locations {
@@ -197,8 +179,7 @@ header nav ul {
     text-decoration: none;
     border-right: 3px solid transparent;
     border-left: 3px solid transparent;
-}
-
+  }
 
 }
 
